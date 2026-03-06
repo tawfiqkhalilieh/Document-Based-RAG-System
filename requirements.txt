@@ -1,0 +1,12 @@
+# Install PyTorch with CUDA for GPU (run once):
+#   python install_torch_gpu.py
+# Or: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+torch
+transformers
+accelerate
+FlagEmbedding
+numpy
+gradio
+Pillow
+rich
+pymupdf
